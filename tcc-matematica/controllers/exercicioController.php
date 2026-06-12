@@ -1,0 +1,3 @@
+<?php
+// Lógica de exercícios
+?>
